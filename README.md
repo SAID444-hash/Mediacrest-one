@@ -44,7 +44,7 @@ No server or installation required.
 
 If hosted on GitHub Pages, add your link here:
 
-https://github.com/SAID444-hash/Mediacrest-one.git
+ https://said444-hash.github.io/Mediacrest-one/
 
 
 ## 📬 Contact
